@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/df7c3697-7a28-4c30-853c-904d1d7f4caf" alt="Project Banner" />
 </p>
 
-<h1 align="center">🚀 Project Name</h1>
+<h1 align="center">🚀 BRAINWAVE </h1>
 <p align="center">An awesome tagline that captures what your project does.</p>
 
 <p align="center">
@@ -11,7 +11,6 @@
   <a href="#getting-started">Getting Started</a> •
   <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
 </p>
 
 ---
