@@ -38,9 +38,7 @@ A concise description of your project. What does it do? Who is it for? Why does 
 
 | Category       | Technology       |
 |----------------|------------------|
-| Framework      | `React`, `Next.js`, `Vue` or others |
-| Backend        | `Node.js`, `Express`, `Django`, etc. |
-| Database       | `MongoDB`, `PostgreSQL`, etc. |
+| Framework      | `JavaScript`, `React`, or others |
 | Deployment     | `Vercel`, `Docker`, `Heroku`, etc. |
 | Others         | `TailwindCSS`, `GraphQL`, etc. |
 
@@ -62,3 +60,20 @@ npm install
 
 # Start the development server
 npm run dev
+```
+## 🛠 Usage
+Explain how users can interact with or benefit from your project. Add screenshots, code snippets, or a demo video link.
+```
+curl -X POST http://localhost:3000/api/analyze \
+-H "Content-Type: application/json" \
+-d '{"input": "Sample text"}'
+```
+## 🤝 Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/your-feature)
+3. Commit your changes (git commit -am 'Add new feature')
+4. Push to the branch (git push origin feature/your-feature)
+5. Create a Pull Request
+
+<p align="center"> Made with ❤️ by [SUSHABHAN] </p>
