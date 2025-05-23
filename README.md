@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center" href="https://brainwave-navy-five.vercel.app/"> Website URL </p>
+<a align="center" href="https://brainwave-navy-five.vercel.app/"> Website URL </a>
 ## 📌 Overview
 
 A concise description of your project. What does it do? Who is it for? Why does it exist?
